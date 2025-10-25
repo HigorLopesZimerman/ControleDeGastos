@@ -1,4 +1,4 @@
-package Crud.example.Controle_Gastos;
+package br.com.controledegastos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
